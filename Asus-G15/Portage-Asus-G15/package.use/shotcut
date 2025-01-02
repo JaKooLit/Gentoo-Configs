@@ -1,0 +1,6 @@
+media-libs/opencv contribdnn contrib
+
+# required by media-video/shotcut-24.02.19::gentoo
+# required by shotcut (argument)
+>=media-libs/mlt-7.22.0-r1 xml jack frei0r
+

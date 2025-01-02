@@ -1,0 +1,3 @@
+net-misc/networkmanager -bluetooth
+
+gnome-extra/nm-applet appindicator

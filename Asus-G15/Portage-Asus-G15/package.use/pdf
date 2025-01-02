@@ -1,0 +1,3 @@
+# required by media-gfx/img2pdf-0.4.4-r1::gentoo[python_targets_python3_12,gui,-test]
+# required by media-gfx/img2pdf (argument)
+>=dev-lang/python-3.12.3 tk

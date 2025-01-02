@@ -1,0 +1,29 @@
+app-emulation/qemu qemu_softmmu_targets_x86_64
+app-emulation/qemu qemu_user_targets_x86_64
+app-emulation/qemu spice virgl usbredir opengl
+
+app-emulation/virt-manager gui
+
+app-emulation/libvirt audi caps firewalld fuse pcap virt-network numa macvtap vepa qemu 
+
+# required by app-emulation/virt-manager-4.1.0-r1::gentoo[-test,gui]
+# required by virt-manager (argument)
+>=net-misc/spice-gtk-0.42-r3 usbredir
+# required by app-emulation/libvirt-9.8.0-r2::gentoo[virt-network]
+# required by app-emulation/libvirt-glib-4.0.0::gentoo
+# required by app-emulation/virt-manager-4.1.0-r1::gentoo[-test]
+# required by virt-manager (argument)
+>=net-dns/dnsmasq-2.90 script ipv6
+# required by app-crypt/swtpm-0.8.1-r2::gentoo
+# required by app-emulation/libvirt-9.8.0-r2::gentoo[qemu]
+# required by app-emulation/libvirt-glib-4.0.0::gentoo
+# required by app-emulation/virt-manager-4.1.0-r1::gentoo[-test]
+# required by virt-manager (argument)
+>=net-libs/gnutls-3.8.0 pkcs11 tools
+
+# required by net-firewall/firewalld-2.1.1-r2::gentoo[-python_single_target_python3_10,nftables,-python_single_target_python3_11,python_single_target_python3_12]
+# required by app-emulation/libvirt-9.8.0-r2::gentoo[firewalld]
+# required by app-emulation/libvirt-glib-4.0.0::gentoo
+# required by app-emulation/virt-manager-4.1.0-r1::gentoo[-test]
+# required by virt-manager (argument)
+>=net-firewall/nftables-1.0.9 python json

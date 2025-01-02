@@ -1,0 +1,5 @@
+media-video/obs-studio speex fdk 
+
+# required by media-video/obs-studio-30.1.1::gentoo
+# required by obs-studio (argument)
+>=media-video/ffmpeg-6.1.1-r5 opus

@@ -1,0 +1,3 @@
+# required by app-office/onlyoffice-bin-8.0.1::gentoo
+# required by onlyoffice-bin (argument)
+>=dev-qt/qtgui-5.15.14 eglfs

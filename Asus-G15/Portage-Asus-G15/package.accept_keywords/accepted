@@ -1,0 +1,68 @@
+gui-wm/hyprland ~amd64
+dev-libs/hyprlang ~amd64
+gui-libs/hyprutils ~amd64
+gui-libs/aquamarine ~amd64
+dev-libs/hyprgraphics ~amd64
+dev-libs/wayland-protocols ~amd64
+dev-util/hyprwayland-scanner ~amd64
+gui-libs/hyprcursor ~amd64
+gui-apps/hyprlock ~amd64
+dev-libs/hyprland-protocols ~amd64
+gui-libs/hyprland-qtutils ~amd64
+
+gui-apps/aylurs-gtk-shell ~amd64
+
+dev-lang/rust-bin ~amd64
+virtual/rust ~amd64
+
+sys-devel/gcc ~amd64
+
+gnome-extra/yad ~amd64
+sys-fs/duf ~amd64
+app-backup/grub-btrfs ~amd64
+gui-libs/xdg-desktop-portal-hyprland ~amd64
+mpv-plugin/mpv-mpris ~amd64
+media-video/wireplumber ~amd64
+media-video/pipewire ~amd64
+gui-apps/wlr-randr ~amd64
+
+#x11-drivers/nvidia-drivers **
+x11-drivers/nvidia-drivers ~amd64
+gui-libs/egl-x11 ~amd64
+gui-libs/egl-wayland ~amd64
+gui-libs/eglexternalplatform ~amd64
+
+# hypridle
+gui-apps/hypridle ~amd64
+dev-cpp/sdbus-c++ ~amd64
+
+gui-apps/swww ~amd64
+gui-apps/rofi-wayland ~amd64
+gui-apps/swaync ~amd64
+gui-apps/wlogout ~amd64
+app-misc/brightnessctl ~amd64
+gui-apps/waybar ~amd64
+
+net-im/discord-canary-bin ~amd64
+
+app-misc/nwg-look ~amd64
+x11-apps/xcur2png ~amd64
+
+app-misc/cliphist ~amd64
+x11-themes/kvantum ~amd64
+sys-process/nvtop ~amd64
+
+dev-util/rocm-smi ~amd64 #for btop
+
+media-gfx/epsonscan2 ~amd64
+media-gfx/epsonscan2-non-free-plugin ~amd64
+
+media-video/obs-studio ~amd64
+media-video/shotcut ~amd64
+
+media-fonts/nerd-fonts ~amd64
+net-im/whatsapp-for-linux ~amd64
+
+net-im/zoom ~amd64
+
+gui-apps/wev ~amd64

@@ -1,0 +1,33 @@
+# Unmasked
+app-backup/grub-btrfs::guru
+x11-misc/pywal::guru
+gui-apps/wlogout::guru
+gui-apps/hypridle::guru
+gui-apps/hyprlock::guru
+gui-apps/swww::guru
+gui-apps/swaync::guru
+gui-apps/rofi-wayland::guru
+app-misc/brightnessctl::guru
+sys-process/nvtop::guru
+app-misc/cliphist::guru
+gnome-extra/yad::guru
+gui-libs/xdg-desktop-portal-hyprland::guru
+mpv-plugin/mpv-mpris::guru
+gui-apps/wlr-randr::guru
+gui-apps/aylurs-gtk-shell::guru
+
+net-im/whatsapp-for-linux::guru
+
+app-misc/nwg-look::guru
+x11-apps/xcur2png::guru
+
+net-im/discord-canary-bin::guru
+
+gui-apps/wev::guru
+
+net-print/epson-inkjet-printer-escpr2::escpr2
+media-gfx/epsonscan2-non-free-plugin::slonko
+media-gfx/epsonscan2::slonko
+
+#gnome-extra/ags::xira # ags
+media-fonts/nerd-fonts::gentoo-zh #nerd fonts

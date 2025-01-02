@@ -1,2 +1,0 @@
-#dev-ruby/rexml RUBY_TARGETS="ruby27"
-#dev-ruby/kramdown RUBY_TARGETS="ruby30 -ruby27"

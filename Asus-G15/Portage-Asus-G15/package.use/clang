@@ -1,0 +1,9 @@
+# move sys-devel/clang-common llvm-core/clang-common
+llvm-core/clang-common default-compiler-rt default-lld llvm-libunwind
+
+# required by sys-devel/clang-common-17.0.6-r5::gentoo[default-compiler-rt,llvm-libunwind]
+# required by sys-devel/clang-17.0.6::gentoo
+# required by @selected
+# required by @world (argument)
+# move sys-libs/llvm-libunwind llvm-runtimes/libunwind
+>=llvm-runtimes/libunwind-17.0.6 static-libs

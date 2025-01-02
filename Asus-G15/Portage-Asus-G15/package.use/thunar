@@ -1,0 +1,6 @@
+gnome-base/gvfs mtp
+
+# required by xfce-base/xfce4-panel-4.18.6::gentoo[dbusmenu]
+# required by xfce-base/thunar-4.18.10::gentoo[trash-panel-plugin]
+# required by thunar (argument)
+>=dev-libs/libdbusmenu-16.04.0-r2 gtk3
