@@ -25,3 +25,7 @@ location = /var/db/repos/gentoo-zh
 sync-type = git
 sync-uri = https://github.com/gentoo-mirror/gentoo-zh.git
 
+[bentoo]
+location = /var/db/repos/bentoo
+sync-type = git
+sync-uri = https://github.com/gentoo-mirror/bentoo.git

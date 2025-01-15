@@ -1,3 +1,4 @@
+*/*::guru ~amd64
 gui-wm/hyprland ~amd64
 dev-libs/hyprlang ~amd64
 gui-libs/hyprutils ~amd64
@@ -42,6 +43,7 @@ gui-apps/swaync ~amd64
 gui-apps/wlogout ~amd64
 app-misc/brightnessctl ~amd64
 gui-apps/waybar ~amd64
+x11-misc/wallust ~amd64
 
 net-im/discord-canary-bin ~amd64
 

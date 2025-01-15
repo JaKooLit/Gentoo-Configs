@@ -15,13 +15,17 @@ gui-libs/xdg-desktop-portal-hyprland::guru
 mpv-plugin/mpv-mpris::guru
 gui-apps/wlr-randr::guru
 gui-apps/aylurs-gtk-shell::guru
+sys-auth/hyprpolkitagent::guru
+gui-libs/hyprland-qt-support::guru
 
 net-im/whatsapp-for-linux::guru
+x11-misc/wallust::guru
 
 app-misc/nwg-look::guru
 x11-apps/xcur2png::guru
 
-net-im/discord-canary-bin::guru
+net-im/teams-for-linux::guru
+
 
 gui-apps/wev::guru
 
